@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Prompt:wght@300&display=swap');
+
+*{
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Prompt', sans-serif;
+}
+
+body{
+    background-color: #025464;
+}
+text1{
+    text-align: center;
+}
+#sp{
+    border-radius: 25px;
+    background: #e57c23;
+    padding: 20px; 
+    width: 1150px;
+    height: 1900px;
+    
+}
+#sp2{
+    position: absolute;
+    border-radius: 25px;
+    background:#f8f1f1;
+    padding: 20px; 
+    width: 1000px;
+    height: 1660px;
+    top: 250px;
+    right: 240px;
+    
+    
+}
+
+img{
+    
+    border-radius: 50%;
+    position: absolute;
+    top: 150px;
+    left: 635px;
+    
+}
+#img2{
+    border-radius: 50%;
+    position: absolute;
+    top :1665px;
+    left:-300px;
+}
+#img3{
+    border-radius: 50%;
+    position: absolute;
+    top :1665px;
+    left: -60px;
+}
+#img4{
+    border-radius: 50%;
+    position: absolute;
+    top :1665px;
+    left:220px;
+}
+#img5{
+    border-radius: 50%;
+    position: absolute;
+    top :1665px;
+    left: 450px;
+}
+
+#pic1{
+    margin: auto;
+    display: block;
+     
+}
+#text2 {
+    position: absolute;
+    border-radius: 25px;
+    background: #e8aa42;
+    padding: 15px; 
+    width: 350px; 
+    top: 410px;
+    right: 820px;
+    margin: 0px;
+
+}
+#text3{
+    color: #f8f1f1;
+    position: absolute;
+    border-radius: 25px;
+    background: #025464;
+    padding: 0.5px; 
+    width: 320px;
+    text-align :center;  
+    font-size: larger;
+    top: 350px;
+    right: 930px;
+    margin: 0px;
+    
+}
+#text4{
+    color: #f8f1f1;
+    position: absolute;
+    border-radius: 25px;
+    background: #025464;
+    padding: 0.5px; 
+    width: 320px;
+    text-align: center;
+    font-size: larger;
+    top: 350px;
+    right: 270px;
+    margin: 0px;
+}
+#text5{
+    position: absolute;
+    border-radius: 25px;
+    background: #e8aa42;
+    padding: 15px; 
+    width: 350px;
+    top: 410px;
+    right: 310px;
+    margin: 10px;
+
+}
+#text6{
+    color: #f8f1f1;
+    position: absolute;
+    border-radius: 25px;
+    background: #025464;
+    padding: 0.5px; 
+    width: 400px;
+    font-size:larger;
+    top: 750px;
+    right: 550px;
+    text-align: center;
+    
+}
+
+#text7{
+    position: absolute;
+    border-radius: 25px;
+    background: #e8aa42;
+    padding: 15px; 
+    width: 850px;
+    top: 1200px;
+    right: 310px;
+    margin: 10px;
+
+}
+#text8{
+    color: #f8f1f1;
+    position: absolute;
+    border-radius: 25px;
+    background: #025464;
+    padding: 0.5px; 
+    width: 400px;
+    font-size:larger;
+    top: 1150px;
+    right: 550px;
+    text-align: center;
+    
+}
+
+#text9{
+    position: absolute;
+    border-radius: 25px;
+    background: #ffdeb4;
+    padding: 15px; 
+    width: 850px;
+    top: 1740px;
+    right: 310px;
+    margin: 10px;
+
+}
+#text10{
+    color: #f8f1f1;
+    position: absolute;
+    border-radius: 50px;
+    background: #e67fa2;
+    padding: 0px; 
+    width: 200px;
+    font-size:larger;
+    top: 1720px;
+    right: 650px;
+    text-align: center;
+    
+}
+#text11{
+    position: absolute;
+    top: 1900px;
+    left: 770px;
+}
+#text12{
+    position: absolute;
+    top: 1900px;
+    left: 1060px;
+}
+#text13{
+    position: absolute;
+    top: 1900px;
+    left: 585px;
+}
+#text14{
+    position: absolute;
+    top: 1900px;
+    left: 300px;
+}
+
+#Ta{
+    text-align: center;
+    border-collapse: collapse;
+    width: 90%;
+    position: absolute;
+    top: 860px;
+    right: 75px;
+
+}
+#Ta td,#Ta th{
+    border: 1px;
+    padding: 8px;
+    font-size: medium;
+}
+#Ta tr:nth-child(even){background-color:#917fb3;}
+#Ta tr:hover{background-color: #fde2f3;}
+#Ta th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #2a2f4f;
+    color: rgb(250, 248, 248);
+}
+
